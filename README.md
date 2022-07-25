@@ -1,2 +1,2 @@
-# trabajotecnologia
-Pagina creada para un trabajo del colegio. 
+# Trabajo Tec. De la información.
+Página web creada para un trabajo del colegio. 
